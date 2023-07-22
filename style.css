@@ -83,8 +83,6 @@ input::placeholder{
 }
 
 
-
-/* Style for the yellow box after the timer reaches zero */
 .time-body.timer[style*="background-color: yellow;"] {
     background-color: yellow;
     color: black;
